@@ -1,0 +1,10 @@
+var cars = ["mclaren", "koenigsegg", "citron", "porsche"];
+console.log("Orginal Array:", cars);
+var length = cars.length;
+console.log("Length of Orginalcars Array:", length);
+cars.reverse();
+console.log(cars);
+console.log(cars.reverse());
+console.log("Method: Orginalanimal.reverse()");
+console.log("change in Array: ", cars);
+console.log("Length of orginal Array:", cars.length);

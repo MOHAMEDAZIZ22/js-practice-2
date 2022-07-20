@@ -1,0 +1,10 @@
+var Orginalanimal1 = ["camel", "lion", "elephant", "tiger"];
+var Orgianalanimal2 = ["zipra", "snake"];
+console.log("Orginal Array:", Orginalanimal);
+var length = Orginalanimal.length;
+console.log("Length of Orginal Array:", length);
+Orginalanimal.concat(1 + 2);
+console.log(Orginalanimal.concat(1 + 2));
+console.log("Method: Orginalanimal.concat(1+2)");
+console.log("change in Array: ", Orginalanimal);
+console.log("Length of orginal Array:", Orginalanimal.length);
